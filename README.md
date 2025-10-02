@@ -1,7 +1,9 @@
-## Hola! Soy Lucas 👋
-     🎯 Frontend React Developer | Nivel Junior
-     🌱 Freelance  
-     📍 Buenos Aires, Argentina
+# Hola! Soy Lucas 👋  
+🎯 Full Stack Developer  
+⚛️ Especializado en React  
+🌱 Freelance  
+📍 Buenos Aires, Argentina
+
 
 
 ## 🚀 Sobre mi
