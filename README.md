@@ -1,6 +1,5 @@
 # Hola! Soy Lucas 👋  
-🎯 Full Stack Developer  
-⚛️ Especializado en React  
+🎯 Full Stack Developer | React · Next.js · Node.js · MongoDB
 🌱 Freelance  
 📍 Buenos Aires, Argentina
 
